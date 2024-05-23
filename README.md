@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+#### I'm a Dev / Arch / Inv / 
+
+R&D Leader at [Big Wave Data](https://bigwavedata.mx/)<br>
+Sr. Cloud Consultant @ [iNBest](https://www.inbest.cloud/)
+
+- ⚙️ I use daily: `.py`, `.cs`, `.sql`, `.bicep`, `.css`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Big Wave Data** & **iNBest** ops
+- 🌱 Learning: Edge Kubernetes (K3s - Jetson - Akri - ONVIF - Azure)
+- 💬 `ping` me about **Cloud**, **Azure**, **Python**, **Dot net**, **State-of-art tech**
 <!--
 **Kahuna-Honu/Kahuna-Honu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
