@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### I'm a Dev / Arch / Inv / 
+#### I'm a Dev / Arch / Cons / Res / Inv / Warmind
 
 R&D Leader at [Big Wave Data](https://bigwavedata.mx/)<br>
 Sr. Cloud Consultant @ [iNBest](https://www.inbest.cloud/)
